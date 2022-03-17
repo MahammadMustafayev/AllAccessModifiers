@@ -1,0 +1,9 @@
+C:\Users\admin\OneDrive\İş masası\Homework Unkwon\AccessNamespace\Library\bin\Debug\netstandard2.0\Library.deps.json
+C:\Users\admin\OneDrive\İş masası\Homework Unkwon\AccessNamespace\Library\bin\Debug\netstandard2.0\Library.dll
+C:\Users\admin\OneDrive\İş masası\Homework Unkwon\AccessNamespace\Library\bin\Debug\netstandard2.0\Library.pdb
+C:\Users\admin\OneDrive\İş masası\Homework Unkwon\AccessNamespace\Library\obj\Debug\netstandard2.0\Library.csprojAssemblyReference.cache
+C:\Users\admin\OneDrive\İş masası\Homework Unkwon\AccessNamespace\Library\obj\Debug\netstandard2.0\Library.AssemblyInfoInputs.cache
+C:\Users\admin\OneDrive\İş masası\Homework Unkwon\AccessNamespace\Library\obj\Debug\netstandard2.0\Library.AssemblyInfo.cs
+C:\Users\admin\OneDrive\İş masası\Homework Unkwon\AccessNamespace\Library\obj\Debug\netstandard2.0\Library.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\İş masası\Homework Unkwon\AccessNamespace\Library\obj\Debug\netstandard2.0\Library.dll
+C:\Users\admin\OneDrive\İş masası\Homework Unkwon\AccessNamespace\Library\obj\Debug\netstandard2.0\Library.pdb

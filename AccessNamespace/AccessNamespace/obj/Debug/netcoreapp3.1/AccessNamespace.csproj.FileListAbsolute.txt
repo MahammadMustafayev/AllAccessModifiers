@@ -1,0 +1,16 @@
+C:\Users\admin\OneDrive\İş masası\Homework Unkwon\AccessNamespace\AccessNamespace\bin\Debug\netcoreapp3.1\AccessNamespace.exe
+C:\Users\admin\OneDrive\İş masası\Homework Unkwon\AccessNamespace\AccessNamespace\bin\Debug\netcoreapp3.1\AccessNamespace.deps.json
+C:\Users\admin\OneDrive\İş masası\Homework Unkwon\AccessNamespace\AccessNamespace\bin\Debug\netcoreapp3.1\AccessNamespace.runtimeconfig.json
+C:\Users\admin\OneDrive\İş masası\Homework Unkwon\AccessNamespace\AccessNamespace\bin\Debug\netcoreapp3.1\AccessNamespace.runtimeconfig.dev.json
+C:\Users\admin\OneDrive\İş masası\Homework Unkwon\AccessNamespace\AccessNamespace\bin\Debug\netcoreapp3.1\AccessNamespace.dll
+C:\Users\admin\OneDrive\İş masası\Homework Unkwon\AccessNamespace\AccessNamespace\bin\Debug\netcoreapp3.1\AccessNamespace.pdb
+C:\Users\admin\OneDrive\İş masası\Homework Unkwon\AccessNamespace\AccessNamespace\bin\Debug\netcoreapp3.1\Library.dll
+C:\Users\admin\OneDrive\İş masası\Homework Unkwon\AccessNamespace\AccessNamespace\bin\Debug\netcoreapp3.1\Library.pdb
+C:\Users\admin\OneDrive\İş masası\Homework Unkwon\AccessNamespace\AccessNamespace\obj\Debug\netcoreapp3.1\AccessNamespace.csprojAssemblyReference.cache
+C:\Users\admin\OneDrive\İş masası\Homework Unkwon\AccessNamespace\AccessNamespace\obj\Debug\netcoreapp3.1\AccessNamespace.AssemblyInfoInputs.cache
+C:\Users\admin\OneDrive\İş masası\Homework Unkwon\AccessNamespace\AccessNamespace\obj\Debug\netcoreapp3.1\AccessNamespace.AssemblyInfo.cs
+C:\Users\admin\OneDrive\İş masası\Homework Unkwon\AccessNamespace\AccessNamespace\obj\Debug\netcoreapp3.1\AccessNamespace.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\İş masası\Homework Unkwon\AccessNamespace\AccessNamespace\obj\Debug\netcoreapp3.1\AccessNamespace.csproj.CopyComplete
+C:\Users\admin\OneDrive\İş masası\Homework Unkwon\AccessNamespace\AccessNamespace\obj\Debug\netcoreapp3.1\AccessNamespace.dll
+C:\Users\admin\OneDrive\İş masası\Homework Unkwon\AccessNamespace\AccessNamespace\obj\Debug\netcoreapp3.1\AccessNamespace.pdb
+C:\Users\admin\OneDrive\İş masası\Homework Unkwon\AccessNamespace\AccessNamespace\obj\Debug\netcoreapp3.1\AccessNamespace.genruntimeconfig.cache
