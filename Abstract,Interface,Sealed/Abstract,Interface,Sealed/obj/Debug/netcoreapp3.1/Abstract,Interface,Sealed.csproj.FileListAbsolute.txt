@@ -1,0 +1,13 @@
+C:\Users\admin\OneDrive\İş masası\Homework Unkwon\Abstract,Interface,Sealed\Abstract,Interface,Sealed\bin\Debug\netcoreapp3.1\Abstract,Interface,Sealed.exe
+C:\Users\admin\OneDrive\İş masası\Homework Unkwon\Abstract,Interface,Sealed\Abstract,Interface,Sealed\bin\Debug\netcoreapp3.1\Abstract,Interface,Sealed.deps.json
+C:\Users\admin\OneDrive\İş masası\Homework Unkwon\Abstract,Interface,Sealed\Abstract,Interface,Sealed\bin\Debug\netcoreapp3.1\Abstract,Interface,Sealed.runtimeconfig.json
+C:\Users\admin\OneDrive\İş masası\Homework Unkwon\Abstract,Interface,Sealed\Abstract,Interface,Sealed\bin\Debug\netcoreapp3.1\Abstract,Interface,Sealed.runtimeconfig.dev.json
+C:\Users\admin\OneDrive\İş masası\Homework Unkwon\Abstract,Interface,Sealed\Abstract,Interface,Sealed\bin\Debug\netcoreapp3.1\Abstract,Interface,Sealed.dll
+C:\Users\admin\OneDrive\İş masası\Homework Unkwon\Abstract,Interface,Sealed\Abstract,Interface,Sealed\bin\Debug\netcoreapp3.1\Abstract,Interface,Sealed.pdb
+C:\Users\admin\OneDrive\İş masası\Homework Unkwon\Abstract,Interface,Sealed\Abstract,Interface,Sealed\obj\Debug\netcoreapp3.1\Abstract,Interface,Sealed.csprojAssemblyReference.cache
+C:\Users\admin\OneDrive\İş masası\Homework Unkwon\Abstract,Interface,Sealed\Abstract,Interface,Sealed\obj\Debug\netcoreapp3.1\Abstract,Interface,Sealed.AssemblyInfoInputs.cache
+C:\Users\admin\OneDrive\İş masası\Homework Unkwon\Abstract,Interface,Sealed\Abstract,Interface,Sealed\obj\Debug\netcoreapp3.1\Abstract,Interface,Sealed.AssemblyInfo.cs
+C:\Users\admin\OneDrive\İş masası\Homework Unkwon\Abstract,Interface,Sealed\Abstract,Interface,Sealed\obj\Debug\netcoreapp3.1\Abstract,Interface,Sealed.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\İş masası\Homework Unkwon\Abstract,Interface,Sealed\Abstract,Interface,Sealed\obj\Debug\netcoreapp3.1\Abstract,Interface,Sealed.dll
+C:\Users\admin\OneDrive\İş masası\Homework Unkwon\Abstract,Interface,Sealed\Abstract,Interface,Sealed\obj\Debug\netcoreapp3.1\Abstract,Interface,Sealed.pdb
+C:\Users\admin\OneDrive\İş masası\Homework Unkwon\Abstract,Interface,Sealed\Abstract,Interface,Sealed\obj\Debug\netcoreapp3.1\Abstract,Interface,Sealed.genruntimeconfig.cache
